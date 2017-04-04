@@ -1,6 +1,6 @@
 {
   "name": "extend-decorator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extend your objects using a decorator!",
   "main": "dist/extend-decorator.js",
   "files": [
