@@ -5,6 +5,6 @@
   "private": true,
   "author": "Joe Lee (https://github.com/bbmoz)",
   "dependencies": {
-    "extend-decorator": "^0.0.1"
+    "extend-decorator": "0.0.1"
   }
 }

@@ -26,7 +26,7 @@ class Boo {
 export default Boo
 ```
 
-```javacript
+```javascript
 // part 2
 import extend from 'extend-decorator'
 import Hi from './Hi'
