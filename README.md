@@ -35,7 +35,7 @@ import Boo from './Boo'
 @extend(Hi)
 class Hello {
   constructor ($hello) {
-    $hello.innerHTML = this.sayHi()
+    $hello.innerHTML = this.sayHi() // hello
   }
   sayHi () {
     return 'hello'
@@ -45,7 +45,7 @@ class Hello {
 @extend(Hi, Boo, true)
 class HelloOverwrite {
   constructor ($helloOverwrite) {
-    $helloOverwrite.innerHTML = `${this.sayHi()} and ${this.sayBoo()}`
+    $helloOverwrite.innerHTML = `${this.sayHi()} and ${this.sayBoo()}` // hi and boo
   }
   sayHi () {
     return 'hello'
