@@ -1,5 +1,7 @@
 # Extend Decorator [![npm version](https://badge.fury.io/js/extend-decorator.svg)](https://badge.fury.io/js/extend-decorator) [![Build Status](https://travis-ci.org/bbmoz/extend-decorator.svg)](https://travis-ci.org/bbmoz/extend-decorator)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bbmoz/extend-decorator.svg)](https://greenkeeper.io/)
+
 > Extend using a decorator!
 
 ## Example
