@@ -74,6 +74,6 @@
     "eslint-plugin-standard": "^3.0.1",
     "html-webpack-plugin": "^2.28.0",
     "semantic-release": "^6.3.2",
-    "webpack": "^3.0.0"
+    "webpack": "^4.0.0"
   }
 }
